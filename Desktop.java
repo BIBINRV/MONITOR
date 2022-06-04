@@ -9,7 +9,9 @@ System.out.println("total hardwares in desktop:20");
 
 	@Override
 	public void monitor() {
+
 		System.out.println("m:40");		
+
 		
 	}
 
